@@ -1,2 +1,9 @@
-ghcr.io/immich-app/immich-server:release
-ghcr.io/immich-app/immich-machine-learning:release
+#ghcr.io/immich-app/immich-server:release
+#ghcr.io/immich-app/immich-machine-learning:release
+
+ghcr.io/immich-app/immich-server:v1.129.0
+ghcr.io/immich-app/immich-machine-learning:v1.129.0
+ghcr.io/immich-app/immich-machine-learning:v1.129.0-cuda
+ghcr.io/immich-app/immich-machine-learning:v1.129.0-openvino
+tensorchord/pgvecto-rs:pg15-v0.2.0
+bitnami/redis:7.4.2
